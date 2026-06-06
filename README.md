@@ -54,8 +54,9 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-**Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+**Observation:
+<img width="772" height="299" alt="Screenshot 2025-11-01 155503" src="https://github.com/user-attachments/assets/65c73fc2-03b8-4e8d-94ef-b8943b3a078a" />
+
 
 **CALCULATIONS:**
 
@@ -76,8 +77,13 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
-   	
+## GRAPH
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-06-06 at 6 52 54 AM" src="https://github.com/user-attachments/assets/3d802ccc-eb4c-4d21-abef-1882c04d4b66" />
+
+## **Result:**
+
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.	
 			
 			
 			
